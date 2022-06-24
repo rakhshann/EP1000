@@ -48,3 +48,15 @@ h1,h2,h3{
     text-align: right;
     
 }
+
+#column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+#row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
