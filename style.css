@@ -21,6 +21,7 @@ h1,h2,h3{
 #header{
  position:fixed ;
  top: 0;
+ width: 800px;
     background-color: rgb(255, 79, 79);
     color:black;
     text-align: center;
