@@ -15,6 +15,7 @@ h1,h2,h3{
 #container{ 
     background-color: rgb(99, 94, 94);
     width: 800px;
+    margin-top: 200;
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,7 +39,7 @@ h1,h2,h3{
 }
 #nav ul{
     list-style-type: none;
-    margin: 50;
+    margin: 70;
     padding: 0;
     overflow: hidden;
     background-color:#333 ;
