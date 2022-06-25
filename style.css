@@ -34,12 +34,12 @@ h1,h2,h3{
 #nav{
     position:fixed;
     top:0;
-    width: 800px;
+    width: 1000px;
     
 }
 #nav ul{
     list-style-type: none;
-    margin: 65;
+    margin: 63;
     padding: 0;
     overflow: hidden;
     background-color:#333 ;
