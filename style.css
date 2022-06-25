@@ -54,9 +54,10 @@ body{
 }
 
 #main{
-    width:800px;
+    width:750px;
     float: center;
     line-height: 2;
+    padding:5px;
 }
 
 h1{
@@ -66,6 +67,7 @@ h1{
 h2{
     text-align:center;
     font-size: 270%;
+    color: khaki;
 }
 #footer{
     clear:both;
@@ -89,6 +91,8 @@ h2{
     width: 170px;
     text-align:center;
     padding:5px;
+    color: black;
+    font-size: 125%;
 }
 td{
     line-height: 1.5;
@@ -99,4 +103,8 @@ td{
 h3{
     text-align: center;
     color: khaki;
+    font-size : 270%;
+    padding: 0px;
+    margin:0px;
 }
+
