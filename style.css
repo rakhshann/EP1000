@@ -1,3 +1,23 @@
+#container{
+    background-color:white ;
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#header{
+    position: fixed;
+    width:800px;
+    background-color: red;
+    color:black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
 body{
     background-image: url("background.jpg");
     background-color: rgb(39, 39, 39)
@@ -12,22 +32,8 @@ a{
 h1,h2,h3{
     margin: 1px;
 }
-#container{ 
-    background-color: rgb(99, 94, 94);
-    width: 800px;
-    margin-top: 150;
-    margin-left: auto;
-    margin-right: auto;
-}
-#header{
- position:fixed ;
- top: 0;
- width: 800px;
-    background-color: rgb(255, 79, 79);
-    color:black;
-    text-align: center;
-    padding: 10px;
-}
+
+
 #content{
     padding: 10px ;
 }
