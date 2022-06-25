@@ -129,3 +129,27 @@ h5{
     font-size: 70%;
     color: white;
 }
+
+#nav2 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100px;
+}
+
+#nav2 li{
+    float:left;
+    margin-left: 130;
+    margin-top:15;
+    margin-bottom: 10;
+}
+
+#nav2 a{
+    text-decoration:none;
+    font-weight: bold;
+    color:white;
+    text-align:center;
+    padding: 20px;
+}
