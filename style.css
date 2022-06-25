@@ -85,13 +85,13 @@ h2{
   .myDIV:hover + .hide {
     display: block;
   }
-  
+
 .myDIV{
     background-color: burlywood;
     width: 170px;
     text-align:center;
     padding:5px;
-    color: black;
+    color:black;
     font-size: 125%;
 }
 td{
@@ -108,3 +108,18 @@ h3{
     margin:0px;
 }
 
+#plink ul{
+    list-style-type: none;
+}
+
+#plink li{
+    float:left;
+    padding:10px;
+}
+
+#plink li a{
+    color:floralwhite;
+    padding: 10px;
+    background-color: #111;
+    margin: 45px;
+}
