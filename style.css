@@ -85,7 +85,7 @@ h2{
   .myDIV:hover + .hide {
     display: block;
   }
-
+  
 .myDIV{
     background-color: burlywood;
     width: 170px;
