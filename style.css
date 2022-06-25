@@ -43,8 +43,9 @@ body{
     padding: 20px;
 }
 
-#nav li a:hover:not(.active){
-    background: colour #111;
+#nav li a.selected{
+    color:darkorchid;
+    font-weight: bold;
 }
 
 #content{
@@ -122,4 +123,5 @@ h3{
     padding: 10px;
     background-color: #111;
     margin: 45px;
+    text-decoration: none;
 }
