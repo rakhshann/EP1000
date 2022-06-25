@@ -136,17 +136,15 @@ h5{
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    width: 100px;
+    width: 150px;
 }
 
 #nav2 li{
     float:left;
-    margin-left: 130;
-    margin-top:15;
-    margin-bottom: 10;
+    padding:20px;
 }
 
-#nav2 a{
+#nav2 ul li a{
     text-decoration:none;
     font-weight: bold;
     color:white;
