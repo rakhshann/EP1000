@@ -151,3 +151,8 @@ h5{
     text-align:center;
     padding: 20px;
 }
+
+#finalimg table{
+    margin-left:auto;
+    margin-right: auto;
+}
