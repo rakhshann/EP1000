@@ -1,6 +1,6 @@
 #container{
     background-color:rgb(66, 66, 66) ;
-    width: 800px;
+    width: 1024px;
     margin-left:auto;
     margin-right:auto;
 }
@@ -13,7 +13,7 @@ body{
 }
 
 #header{
-    width:800px;
+    width: 1024px;
     background-color: rgb(206, 6, 6);
     color:black;
     text-align: center;
@@ -26,12 +26,12 @@ body{
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    width: 800px;
+    width: 1024px;
 }
 
 #nav li{
     float:left;
-    margin-left: 130;
+    margin-left: 190;
     margin-top:15;
     margin-bottom: 10;
 }
@@ -50,12 +50,12 @@ body{
 
 #content{
     padding: 15px;
-    width:800px;
+    width:1000px;
 
 }
 
 #main{
-    width:750px;
+    width:1000px;
     float: center;
     line-height: 2;
     padding:5px;
@@ -115,7 +115,7 @@ h3{
 
 #plink li{
     float:left;
-    padding:10px;
+    padding:45px;
 }
 
 #plink li a{
@@ -155,4 +155,10 @@ h5{
 #finalimg table{
     margin-left:auto;
     margin-right: auto;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
