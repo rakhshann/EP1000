@@ -163,3 +163,9 @@ table{
     margin-right: auto;
     text-align: center;
 }
+
+h6{
+    font-size: 100%;
+    color: white;
+    text-decoration: none;
+}
