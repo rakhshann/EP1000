@@ -169,3 +169,10 @@ h6{
     color: white;
     text-decoration: none;
 }
+
+h7{
+    text-align:center;
+    font-size: 100%;
+    color: white;
+    text-decoration: underline;
+}
