@@ -61,7 +61,9 @@
                  <td><img src="images/tinkercadarduino1.png" height="500px"></td> 
                  </table>
                  <p> Here's the image of the circuit. I organised the wires nicely in order for the connections to be seen easily as well as for me to be able to have an easier time during the action creation of the circuit. </p> 
-                 
+                 <p> The batteries are connected to the GND and Vcc pins. The vibration motor is connected to the GND and pin 10. </p>
+                 <p> As for the ultrasonic sensor, Vcc pin is connected to the 5V pin on the arduino. Trig pin is connected to pin 2. Echo is connected to pin 4 on the arduino. And lastly GND is connected to the GND pin on the arduino.</p>
+
                  <p></p>
                  <p></p>
 
@@ -75,7 +77,7 @@
                  
 
                  <h2>CODING STAGE</h2>
-                 <p> Arduino circuit steps</p>
+                 <h4> Arduino coding steps</h4>
                  <p>1) First, i defined the program by designating each component, the vibration motor and the sensor pins, to a certain pin on the arduino.</p>
                  <p>2) Then, I declared each Input and Output. in void setup</p>
                  <p>3) After that, I created a void loop to measure the distance of the receiver and the 'obstruction'. If the safeDistance is over 50, the vibration motor will be on low. But if it's under 50, the vibration motor will be on high.</p>
